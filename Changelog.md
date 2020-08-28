@@ -12,3 +12,8 @@
 
 ### Changed
 - Updated README.md
+
+## [Version 1.2]
+### Changed
+- Updated Notes.md
+- Fixed incorrect code in README.md
