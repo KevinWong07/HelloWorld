@@ -8,5 +8,5 @@ Basic .java file displaying "Hello World"
 1. Download [Java](https://www.java.com/en/) if you don't already have it.
 2. Open your command line of choice and run the following:
 ```
-java HellowWorld.java
+java HelloWorld.java
 ```
